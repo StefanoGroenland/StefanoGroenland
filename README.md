@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif)
+![](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
